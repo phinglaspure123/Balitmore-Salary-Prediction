@@ -119,5 +119,5 @@ Model Equation
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pushpakhinglaspure)
 
-[![Kaggel](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAJFBMVEVHcEwPjL0Xjb4AirwAirwGi7wYjr4CirwAirwAirwAirwAirxnHWWiAAAADHRSTlMALRnw/3MKPbDYkcSWjrcvAAAAhUlEQVR4AWPABIyCCshcZpcAZC4LydwEECRSMZt6uQASl71z8gIkrrSLZwGCy7TFZTuSXm0X7wIEN3CLy0Ykk7tdPASQuC4QSQS3DUizIbimyLKeJp4BSNzGJS7Tkd2c4eItgMRlmuLShMRlK3ZxTUDyQqqJcwASl2mxyzTkYFcUFMOMEACjByP3ENHmNAAAAABJRU5ErkJggg==)](https://www.kaggle.com/pushpakhinglaspure)
+[![Kaggel](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ39amsH-73b49qD2GNgQqogPPJzaRh1d7vOC1KbEb2E7qRWymqm6qM&usqp=CAE&s)](https://www.kaggle.com/pushpakhinglaspure)
 
