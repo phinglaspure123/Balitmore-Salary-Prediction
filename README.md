@@ -117,7 +117,7 @@ Model Equation
 
 - Exploration of factors contributing to wage gaps and informing equitable pay practices.
 ## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/pushpakhinglaspure)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pushpakhinglaspure)
 
 [![Kaggel](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAJFBMVEVHcEwPjL0Xjb4AirwAirwGi7wYjr4CirwAirwAirwAirwAirxnHWWiAAAADHRSTlMALRnw/3MKPbDYkcSWjrcvAAAAhUlEQVR4AWPABIyCCshcZpcAZC4LydwEECRSMZt6uQASl71z8gIkrrSLZwGCy7TFZTuSXm0X7wIEN3CLy0Ykk7tdPASQuC4QSQS3DUizIbimyLKeJp4BSNzGJS7Tkd2c4eItgMRlmuLShMRlK3ZxTUDyQqqJcwASl2mxyzTkYFcUFMOMEACjByP3ENHmNAAAAABJRU5ErkJggg==)](https://www.kaggle.com/pushpakhinglaspure)
 
